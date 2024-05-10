@@ -1,0 +1,3 @@
+Analyse des connexions à la base.
+Mise en place de la base entreprise.
+Tests de fetch.
